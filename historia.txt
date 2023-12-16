@@ -1,7 +1,5 @@
-Esta es la vida de Gabriel Ariza
+Esta es la historia de Gabriel Ariza
 
-tiene 23 años y es estudiante de programación
-
-Nacio en Panamá
+tiene 22 años y es estudiante de programación
 
 Actualmente hace un curso de git
