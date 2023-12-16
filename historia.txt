@@ -1,5 +1,7 @@
 Esta es la historia de Gabriel Ariza
 
-tiene 22 años y es estudiante de programación
+tiene 23 años y es estudiante de programación
+
+Nacio en Panamá
 
 Actualmente hace un curso de git
