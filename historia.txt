@@ -2,6 +2,4 @@ Esta es la historia de Gabriel Ariza
 
 tiene 22 años y es estudiante de programación
 
-Ariza de la Cruz tiene 18 años y nacio en Internet
-
 Actualmente hace un curso de git
