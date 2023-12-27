@@ -8,4 +8,6 @@ Master 2
 Master1
 >>>>>>> f77b2f4 (Exp 1)
 
+Experimento2
+
 Actualmente hace un curso de git
