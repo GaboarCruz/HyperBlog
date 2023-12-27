@@ -2,12 +2,12 @@ Esta es la historia de Gabriel Ariza
 
 tiene 22 años y es estudiante de programación
 
-<<<<<<< HEAD
 Master 2
-=======
-Master1
->>>>>>> f77b2f4 (Exp 1)
 
-Experimento2
+Master 1
+
+Experimento 1
+
+Experimento 2
 
 Actualmente hace un curso de git
